@@ -47,7 +47,7 @@ void removeString(char* src) {
 	src[j] = '\0';
 }
 
-void main() {
+void main_21() {
 	char src[] = "aabcdd";
 
 	replaceString(src);
