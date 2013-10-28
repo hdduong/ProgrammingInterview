@@ -77,7 +77,7 @@ node_int* getFirstCycleNode(node_int *list, node_int *start_node) {
 	return slow_node;
 }
 
-void main() {
+void main_7_2() {
 	node_int *node_1 = new node_int(1,NULL);
 	node_int *node_2 = new node_int(2,NULL);
 	node_int *node_3 = new node_int(3,NULL);
