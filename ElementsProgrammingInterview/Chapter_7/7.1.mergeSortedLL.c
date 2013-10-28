@@ -61,7 +61,7 @@ void printList(int_node *L) {
 	printf("\n");
 }
 
-void main() {
+void main7_1() {
 	int_node *left_list = NULL;
 	int_node *right_list = NULL;
 
