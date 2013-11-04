@@ -43,7 +43,7 @@ void createOddEvenList(struct int_node **l0) {
 
 }
 
-void main() {
+void main_7_6() {
 	struct int_node *l0 = (struct int_node*)malloc(sizeof(struct int_node));
 	struct int_node *l1 = (struct int_node*)malloc(sizeof(struct int_node));
 	struct int_node *l2 = (struct int_node*)malloc(sizeof(struct int_node));
